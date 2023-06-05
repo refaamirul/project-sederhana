@@ -11,7 +11,7 @@ const Hero = () => {
           <h1>Halo Semua 👋🏻, saya <span>Refa Amirul</span></h1>
           <h2 className="mb-5 position-absolute text-secondary">Programming & <span className="text-white">Frond-End Developer</span></h2>
           <p className="text-secondary py-5 position-relative">Belajar web programming itu mudah dan menyenangkan <span className="text-white">bukan!</span></p>
-          <a href="#" className="bg-primary py-5 px-5 text-white rounded-4 opacity-75 kolom mt-5 d-flex justify-content-center position-relative">Hubungi Saya</a>
+          <a href="#" className="py-3 px-5 text-white rounded-4 kolom mt-5 d-flex justify-content-center position-relative bg-primary">Hubungi Saya</a>
         </div>
         <div className="w-50 align-self-end px-4 d-flex">
           <div className="position-relative mt-5 mt-4 profil-img">
