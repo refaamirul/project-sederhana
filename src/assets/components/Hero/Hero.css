@@ -1,0 +1,57 @@
+.container-hero {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.halaman {
+  width: 100%;
+  display: flex;
+}
+
+.halaman > h1 {
+  position: relative;
+  top: 5rem;
+  padding: 0 5rem;
+  font-weight: 600;
+  font-size: 1.25rem;
+}
+
+.halaman > h1 span {
+  margin-top: 1rem;
+  font-size: 2.25rem;
+  font-weight: 700;
+  display: block;
+}
+
+.halaman > h2 {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  left: 11rem;
+  top: 17rem;
+}
+
+.halaman > p {
+  top: 11rem;
+  right: 19rem;
+}
+
+.halaman p > span {
+  font-weight: 700;
+}
+
+.kolom a {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 600;
+  color: white;
+}
+
+.kolom {
+  top: 14rem;
+  right: 52rem;
+}
+
+.profil-img {
+  top: -17rem;
+  left: 31rem;
+}
