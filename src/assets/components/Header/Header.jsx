@@ -5,7 +5,7 @@ import Logo from '../../../../public/logo R.png'
 
 const Header = () => {
   return (
-    <div className="container">
+    <div className="container navbar-fixed">
       <div className="logo">
         <img src={Logo} alt="" />
         <span>efa</span>
@@ -21,6 +21,7 @@ const Header = () => {
 
         <input type="text" className="search" placeholder="Search" />
       </div>
+      
     </div>
   )
 }
