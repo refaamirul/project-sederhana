@@ -12,7 +12,7 @@ const About = () => {
               <h2 className="mb-5 max-w-md text-3xl font-bold">Yuk, simak diri saya!</h2>
               <p className="max-w-md text-base font-medium">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam quis voluptas non optio corrupti impedit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, nobis?</p>
           </div>
-          <div className="w-full px-4">
+          <div className="w-full px-4 position-relative follow">
             <h3 className="mb-4 text-2xl font-semibold">Berteman di Sosmed Saya</h3>
             <p className="mb-6 text-base font-medium">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis aut iste perspiciatis consequuntur enim sapiente alias illo cupiditate et blanditiis?</p>
             
