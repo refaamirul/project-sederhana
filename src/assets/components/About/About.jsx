@@ -7,7 +7,7 @@ const About = () => {
     <section id="about" className="pt-36 pb-32">
       <div className="container">
         <div className="flex about-me">
-          <div className="mb-10 w-full px-4">
+          <div className="mb-10 w-full px-4 position-relative about-me-us">
               <h4 className="mb-3 uppercase font-bold">About Us</h4>
               <h2 className="mb-5 max-w-md text-3xl font-bold">Yuk, simak diri saya!</h2>
               <p className="max-w-md text-base font-medium">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam quis voluptas non optio corrupti impedit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, nobis?</p>
