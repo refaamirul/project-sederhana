@@ -5,7 +5,7 @@ const About = () => {
   return (
     <section id="about" className="pt-36 pb-32">
       <div className="container">
-        <div className="flex flex-wrap">
+        <div className="flex about-me">
           <div className="mb-10 w-full px-4">
               <h4 className="mb-3 uppercase font-bold">About Us</h4>
               <h2 className="mb-5 max-w-md text-3xl font-bold">Yuk, simak diri saya!</h2>
