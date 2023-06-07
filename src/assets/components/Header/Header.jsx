@@ -5,7 +5,7 @@ import Logo from '../../../../public/logo R.png'
 
 const Header = () => {
   return (
-    <div className="container navbar-fixed">
+    <div className="container-header navbar-fixed">
       <div className="logo">
         <img src={Logo} alt="" />
         <span>efa</span>
