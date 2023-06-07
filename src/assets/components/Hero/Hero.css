@@ -10,7 +10,6 @@
 .halaman > h1 {
   position: relative;
   top: 5rem;
-  padding: 0 5rem;
   font-weight: 600;
   font-size: 1.25rem;
 }
@@ -29,8 +28,8 @@
 }
 
 .halaman > p {
-  top: 11rem;
-  right: 19rem;
+  top: 14rem;
+  right: 14rem;
 }
 
 .halaman p > span {
@@ -46,7 +45,7 @@
 
 .kolom {
   top: 14rem;
-  right: 52rem;
+  right: 47rem;
 }
 
 .profil-img {
