@@ -15,7 +15,6 @@ const Header = () => {
           <li>Home</li>
           <li>About</li>
           <li>Portfolio</li>
-          <li>Galeri</li>
           <li>Kontak</li>
         </ul>
 

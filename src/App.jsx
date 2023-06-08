@@ -5,6 +5,7 @@ import Header from './assets/components/Header/Header'
 import Hero from './assets/components/Hero/Hero'
 import About from './assets/components/About/About'
 import Portfolio from './assets/components/Portfolio/Portfolio'
+import Contact from './assets/components/Kontak/Contact'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Hero/>
       <About/>
       <Portfolio/>
+      <Contact/>
     </div>
   )
 }

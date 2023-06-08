@@ -1,0 +1,16 @@
+.tabel-kolom > input {
+  width: 30rem;
+  border: none;
+  outline: none;
+}
+
+.tabel-kolom > textarea {
+  width: 30rem;
+  border: none;
+  outline: none;
+}
+
+.tabel-kolom > button {
+  width: 30rem;
+  margin-left: 5rem;
+}
