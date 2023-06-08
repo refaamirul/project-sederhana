@@ -1,0 +1,11 @@
+.berita > li {
+  list-style: none;
+}
+
+.judul-h3 {
+  margin-left: 3rem;
+}
+
+.footer-me {
+  padding: 0.10rem;
+}
